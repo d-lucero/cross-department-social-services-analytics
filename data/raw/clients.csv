@@ -1,0 +1,11 @@
+client_id,age,gender,race,city
+1,34,Female,Black,Seattle
+2,45,Male,White,Seattle
+3,29,Female,Hispanic,Tacoma
+4,52,Male,Black,Seattle
+5,23,Female,Asian,Bellevue
+6,40,Male,Hispanic,Everett
+7,36,Female,Black,Seattle
+8,50,Male,White,Tacoma
+9,28,Female,Asian,Bellevue
+10,60,Male,Black,Seattle
