@@ -1,0 +1,11 @@
+client_id,housing_status,rent_amount,subsidy
+1,Stable,1200,Yes
+2,Unstable,900,No
+3,Stable,1100,Yes
+4,Homeless,0,Yes
+5,Stable,1500,No
+6,Unstable,800,Yes
+7,Stable,1300,Yes
+8,Stable,1400,No
+9,Unstable,950,Yes
+10,Homeless,0,Yes
