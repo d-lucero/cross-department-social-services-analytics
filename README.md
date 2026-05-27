@@ -85,3 +85,7 @@ Initial dashboard showed missing or misleading data
 - Supports data-driven decision-making across departments
 - Highlights risk factors related to housing instability
 - Provides insight into client outcomes and service needs
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
